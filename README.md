@@ -1,4 +1,4 @@
-# MDLX v4
+# MDLX
 
 Android currency converter with Material 3 UI, real-time BNM exchange rates, cross-rate calculation, and 30-day volatility chart.
 
@@ -24,7 +24,7 @@ Android currency converter with Material 3 UI, real-time BNM exchange rates, cro
 
 - **Branch**: `dev` for active development
 - **Release**: `main` for production
-- **CI**: GitHub Actions (tests + linting)
+- **CI**: GitHub Actions (lint)
 
 ## Architecture
 
@@ -70,9 +70,3 @@ MVVM with Unidirectional Data Flow:
 | Card radius | 36dp | main cards |
 | Chip radius | 8dp | currency chips |
 | Grid | 8dp / 16dp | base spacing |
-
-## Links
-
-- [Kanban Board](kanban.md)
-- [Wiki](index.md)
-- [Issue Tracker](https://github.com/freyandere/mdlx/issues)

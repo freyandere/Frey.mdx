@@ -1,4 +1,4 @@
-# LeiConverter v4
+# MDLX v4
 
 Android currency converter with Material 3 UI, real-time BNM exchange rates, cross-rate calculation, and 30-day volatility chart.
 

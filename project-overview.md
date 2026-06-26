@@ -1,5 +1,5 @@
 ---
-title: LeiConverter
+title: MDLXConverter
 created: 2026-06-26
 updated: 2026-06-26
 type: entity
@@ -7,7 +7,7 @@ tags: [ui, data, feature]
 sources: []
 confidence: high
 ---
-# LeiConverter
+# MDLXConverter
 
 ## Overview
 Android currency converter with Material 3 UI, real-time BNM exchange rates, cross-rate calculation, and 30-day volatility chart.

@@ -1,7 +1,7 @@
-# Wiki Schema — LeiConverter
+# Wiki Schema — MDLXConverter
 
 ## Domain
-Android currency converter project (LeiConverter v4) with BNM exchange rates, cross-rate calculation, and 30-day volatility charts.
+Android currency converter project (MDLXConverter v4) with BNM exchange rates, cross-rate calculation, and 30-day volatility charts.
 
 ## Conventions
 - File names: lowercase, hyphens, no spaces

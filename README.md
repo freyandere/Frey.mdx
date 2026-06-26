@@ -75,4 +75,4 @@ MVVM with Unidirectional Data Flow:
 
 - [Kanban Board](kanban.md)
 - [Wiki](index.md)
-- [Issue Tracker](https://github.com/freyandere/leiconverter-v4/issues)
+- [Issue Tracker](https://github.com/freyandere/mdlx/issues)

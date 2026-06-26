@@ -20,5 +20,5 @@ MVVM (Model-View-ViewModel) with Unidirectional Data Flow:
 - Charts: Vico (sparkline)
 
 ## Links
-- [GitHub](https://github.com/freyandere/leiconverter-v4)
+- [GitHub](https://github.com/freyandere/mdlx)
 - [Kanban Board](kanban.md)
